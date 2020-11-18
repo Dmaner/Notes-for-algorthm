@@ -4,7 +4,7 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 
 # Introduction
 
-## 算法 👾 
+## 算法 👾
 
 ### Baseline
 
@@ -12,7 +12,7 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 * 算法导论
 * [Leetcode](suan-fa/leetcode.md)
 
-## 操作系统
+## 操作系统 🎃 
 
 ### Baseline
 
@@ -25,7 +25,7 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 * 深入Linux内核架构
 * 深入理解Linux内核
 
-## 计算机网络
+## 计算机网络 🤖 
 
 ### Baseline
 
@@ -40,7 +40,7 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 * HTTP服务器
 * RPC框架
 
-## 数据库
+## 数据库 🐳 
 
 ### Baseline
 
