@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CS-Notes](README.md)
+* [Introduction](README.md)
 
 ## 算法
 
@@ -8,7 +8,7 @@
 
 ## 操作系统
 
-* [MIT-6.S081](cao-zuo-xi-tong/mit-6.s081.md)
+* [MIT-6.S081](https://www.zhihu.com/column/c_1309193829527171072)
 
 ## 计算机网络
 
