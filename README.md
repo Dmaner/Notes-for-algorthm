@@ -10,7 +10,7 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 
 * 算法
 * 算法导论
-* [Leetcode](https://app.gitbook.com/@2663515256/s/algorithm/~/drafts/-MMOjX6RfIiMr5YJxQ7e/suan-fa/leetcode)
+* [Leetcode](suan-fa/leetcode.md)
 
 ## 操作系统
 
