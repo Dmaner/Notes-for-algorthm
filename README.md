@@ -8,9 +8,8 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 
 ### Baseline
 
-* 算法
-* 算法导论
-* [Leetcode](suan-fa/leetcode.md)
+* [Leetcode](suan-fa/leetcode/)
+* codeforce
 
 ## 操作系统  🎃
 

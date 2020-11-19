@@ -4,7 +4,9 @@
 
 ## 算法
 
-* [Leetcode](suan-fa/leetcode.md)
+* [Leetcode](suan-fa/leetcode/README.md)
+  * [树](suan-fa/leetcode/shu/README.md)
+    * [前缀树](suan-fa/leetcode/shu/qian-zhui-shu.md)
 
 ## 操作系统
 
