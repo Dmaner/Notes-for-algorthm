@@ -6,5 +6,5 @@ description: 记录LeetCode或者其他部分平台的题目
 
 ## 目录
 
-#### 树
+#### [树](/suan-fa/leetcode/shu/README.md)
 
