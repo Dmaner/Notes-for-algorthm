@@ -11,6 +11,7 @@
 ## 操作系统
 
 * [MIT-6.S081](https://www.zhihu.com/column/c_1309193829527171072)
+* [基本概念](cao-zuo-xi-tong/ji-ben-gai-nian.md)
 
 ## 计算机网络
 

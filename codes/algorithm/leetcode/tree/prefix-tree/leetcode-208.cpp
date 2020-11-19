@@ -31,7 +31,7 @@ public:
             if (node == NULL) {
                 return false;
             }
-        }
+        }   
         return node->isEnd;
     }
     
