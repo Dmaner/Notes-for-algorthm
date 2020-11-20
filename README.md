@@ -8,7 +8,7 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 
 ### Baseline
 
-* [Leetcode](./algorithm/leetcode/)
+* [Leetcode](algorithm/leetcode/)
 * codeforce
 
 ## 操作系统  🎃
