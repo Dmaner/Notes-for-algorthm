@@ -1,5 +1,5 @@
 ---
-description: 记录数相关算法以及相应题
+description: 记录树相关算法以及相应题
 ---
 
 # 树
