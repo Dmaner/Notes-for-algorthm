@@ -20,8 +20,8 @@
 ## 计算机网络 <a id="computer-networks"></a>
 
 * [UNIX网络编程](computer-networks/unp.md)
-* [TCP/IP详解](computer-networks/tcpip-xiang-jie/README.md)
-  * [TCP传输协议](computer-networks/tcpip-xiang-jie/tcp-chuan-shu-xie-yi.md)
+* [TCP/IP详解](computer-networks/tcpip-books/README.md)
+  * [TCP传输协议](computer-networks/tcpip-books/tcp.md)
 
 ## 数据库 <a id="database"></a>
 
