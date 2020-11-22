@@ -1,5 +1,8 @@
 {
     "author" : "dman",
+    "title": "dman's cs-note",
+    "description": "主要记录学习算法，操作系统，计网和数据库的笔记",
+    "language": "zh-hans",
     "plugins": [
         "github-buttons"
       ],
@@ -9,12 +12,14 @@
             "user": "dman",
             "repo": "cs-notes",
             "type": "star",
-            "size": "large"
+            "size": "small",
+            "count":true
         }, {
             "user": "dman",
             "type": "follow",
-            "width": "230",
-            "count": false
+            "width": "160",
+            "size":"small",
+            "count": true
         }]
         }
     }
