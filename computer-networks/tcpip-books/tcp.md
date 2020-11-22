@@ -1,12 +1,20 @@
 # TCP传输协议
 
-## Can I become who I want to be?
+## 概述
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+### TCP的可靠性
 
-## Have you had a chance to answer the previous question?
+- 分成合理的报文长度进行发送
+- 超过时限重传
+- 发出接受确认报文
+- 流量控制
+- 丢弃重复数据
+- 接收保证顺序
+- 校验和
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+### TCP首部
+
+![image-20201121170128369](../../.gitbook/assets/tcp-header.png)
 
 
 
