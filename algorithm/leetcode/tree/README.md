@@ -1,5 +1,6 @@
 # 树
 
-### 目录
+## 目录
 
-- [前缀树](prefix-tree.md)
+* [前缀树](prefix-tree.md)
+

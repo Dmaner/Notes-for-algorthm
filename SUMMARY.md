@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-* [DDL](Schedule.md)
+* [DDL](schedule.md)
 
 ## 算法 <a id="algorithm"></a>
 
