@@ -1,3 +1,21 @@
 {
-    "author" : "dman"
+    "author" : "dman",
+    "plugins": [
+        "github-buttons"
+      ],
+    "pluginsConfig": {
+        "github-buttons": {
+        "buttons": [{
+            "user": "dman",
+            "repo": "cs-notes",
+            "type": "star",
+            "size": "small"
+        }, {
+            "user": "dman",
+            "type": "follow",
+            "width": "230",
+            "count": false
+        }]
+        }
+    }
 }
