@@ -21,22 +21,54 @@ Leetcode 🦊
 周一组会 🐱
 {% endtab %}
 
+{% tab title="c++" %}
+### 2月前
+
+nginx源码阅读 🦁
+
+redis源码阅读 🦁
+
+levaldb阅读 🦁
+
+rocksdb源码阅读 🦁
+{% endtab %}
+
 {% tab title="操作系统" %}
 ### 12月前
 
-MIT 6.S081
+MIT 6.S081 🦁
+
+### 12.6号前
+
+深入Linux内核架构（自选章节，至少每天一个章节） 🦁 
+
+### 1月前
+
+UNIX/LINUX编程实践（偏向对APUE的复习） 🐺
 {% endtab %}
 
 {% tab title="计算机网络" %}
-TCP/IP详解
+
+### 1月前
+
+TCP/IP详解 🐺
+
+Linux 高性能服务器编程 🦁
+
+写项目（FTP服务器，HTTP服务器，RPC网络框架）🦁
 {% endtab %}
 
 {% tab title="数据库" %}
-Mysql技术内幕
+### 春节前
+
+Mysql技术内幕 🐺
 {% endtab %}
 
 {% tab title="分布式" %}
-MIT 6.824
+### 春节前 
+
+MIT 6.824 🦁
+
 {% endtab %}
 {% endtabs %}
 
@@ -44,10 +76,19 @@ MIT 6.824
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 |
+| 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1 | 🦁x1：MIT 6.824 watch video |
+| 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1: leetcode |
 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 |
 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 |
-| 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 | 🦊x1 |
+
+## 11.22 -> now
+```text
+        应达目标  
+🐱 x      1       
+🦊 x      1       
+🐺 x      3       
+🦁 x      6       
+```
 
 ## 重要等级
 
