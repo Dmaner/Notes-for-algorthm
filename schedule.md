@@ -52,12 +52,13 @@ UNIX/LINUX编程实践（偏向对APUE的复习） 🐺
 {% tab title="计算机网络" %}
 
 ### 1月前
+- [ ] TCP/IP详解(英文版) 🦁
 
-TCP/IP详解 🐺
+- [ ] 图解TCP/IP 🐺
 
-图解TCP/IP 🐺
+- [ ] Linux 高性能服务器编程 🦁 [120, 120] 
 
-Linux 高性能服务器编程 🦁 (2h一章，看到第12章)
+- [ ] thinking in java 🐺 [40, 40]
 
 写项目（FTP服务器，HTTP服务器，RPC网络框架）🦁
 {% endtab %}
