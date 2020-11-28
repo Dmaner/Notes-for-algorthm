@@ -44,15 +44,18 @@ Leetcode 🦊
 ### 1月前
 
 * [ ] UNIX/LINUX编程实践（偏向对APUE的复习） 🐺
+* [ ] Linux/Unix编程手册 \[44, 137\] 🦁
 {% endtab %}
 
 {% tab title="计算机网络" %}
 ### 1月前
 
+* [ ] tinyhttpd源码阅读
+* [ ] UNIX网络环境编程
 * [ ] TCP/IP详解\(英文版\) 🦁
 * [ ] 图解TCP/IP 🐺
-* [ ] Linux 高性能服务器编程 🦁 \[120, 120\]
-* [ ] thinking in java 🐺 \[40, 40\]
+* [ ] Linux 高性能服务器编程 🦁 \[36, 120\]
+* [ ] thinking in java 🐺 \[12, 40\]
 * [ ] 写项目（FTP服务器，HTTP服务器，RPC网络框架）🦁
 {% endtab %}
 
@@ -74,16 +77,16 @@ Leetcode 🦊
 {% tabs %}
 {% tab title="周一" %}
 * MIT6.S081
-* leetcode
+* Leetcode
 {% endtab %}
 
 {% tab title="周二" %}
 * MIT6.S081
-* leetcode 
+* Leetcode 
 {% endtab %}
 
 {% tab title="周三" %}
-* leetcode
+* Leetcode
 {% endtab %}
 
 {% tab title="周四" %}
@@ -94,7 +97,9 @@ Leetcode 🦊
 {% endtab %}
 
 {% tab title="周五" %}
-
+* Java
+* Linux服务器
+* Leetcode
 {% endtab %}
 
 {% tab title="周六" %}
