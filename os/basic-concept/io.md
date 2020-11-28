@@ -82,13 +82,14 @@ void sync(void)
 > 水平触发：如果文件描述符可以非阻塞的执行I/O系统调用，则认为就绪  
 > 边缘触发：如果文件描述符在上次检查状态之前有了新的I/O活动，则触发，且尽可能地多执行I/O
 
-![高级I/O的触发模式](../../.gitbook/assets/io_info_model.png)
+![高级I/O的触发模式](../../.gitbook/assets/io-info-model.png)
 
 ### IO多路复用
 
 ```c
 // select 一直阻塞直到一个或多个文件描述符集合称为就绪态
-int select(int nfds, fd_set* readfds, fd_set* writefds, fd_set* exceptfds, struct timeval* timeout);
+int select(int nfds, fd_set* readfds, fd_set* writefds, 
+            fd_set* exceptfds, struct timeval* timeout);
 
 // select相关宏
 // 构造空集
@@ -142,7 +143,8 @@ typedef union epoll_data{
 
 // 返回多个就绪文件描述符的
 // evlist 返回就绪描述符的信息
-int epoll_wait(int efds, struct epoll_event* evlist, int maxevents, int timeout);
+int epoll_wait(int efds, struct epoll_event* evlist, 
+                int maxevents, int timeout);
 ```
 
 > epoll的水平触发和边缘触发的区别  
