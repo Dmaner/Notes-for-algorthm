@@ -56,7 +56,7 @@ int close(int fd);
 
 > 原理：缓冲大块数据减少系统调用
 
-![标准io原理图示](./../../.gitbook/assets/stdio_io.png)
+![标准io原理图示](./../../.gitbook/assets/stdio-buffer.png)
 
 ```c
 // 设置缓冲模式
