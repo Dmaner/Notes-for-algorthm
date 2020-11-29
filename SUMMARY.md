@@ -6,6 +6,7 @@
 ## 算法 <a id="algorithm"></a>
 
 * [Leetcode](algorithm/leetcode/README.md)
+  * [动态规划](algorithm/leetcode/dynamic-programming.md)
   * [链表](algorithm/leetcode/linked-list.md)
   * [树](algorithm/leetcode/tree/README.md)
     * [前缀树](algorithm/leetcode/tree/prefix-tree.md)

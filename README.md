@@ -4,6 +4,11 @@ description: 主要记录学习算法，操作系统，计网和数据库的笔�
 
 # Introduction
 
+## 个人博客地址 🍈
+
+* Github : [https://github.com/Dmaner](https://github.com/Dmaner)
+* 知乎 : [https://www.zhihu.com/people/lemonman-98](https://www.zhihu.com/people/lemonman-98)
+
 ## 算法 🐱
 
 ### Baseline
