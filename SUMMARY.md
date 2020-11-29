@@ -6,7 +6,14 @@
 ## 算法 <a id="algorithm"></a>
 
 * [Leetcode](algorithm/leetcode/README.md)
-  * [动态规划](algorithm/leetcode/dynamic-programming.md)
+  * [图](algorithm/leetcode/tu/README.md)
+    * [最短路](algorithm/leetcode/tu/zui-duan-lu.md)
+  * [哈希表](algorithm/leetcode/hash-table.md)
+  * [动态规划](algorithm/leetcode/dynamic-programming/README.md)
+    * [线性动态规划](algorithm/leetcode/dynamic-programming/linear-dynamic-programming.md)
+    * [区间dp](algorithm/leetcode/dynamic-programming/interval-dynamic-programming.md)
+    * [前缀和](algorithm/leetcode/dynamic-programming/prefix-sum.md)
+    * [背包问题](algorithm/leetcode/dynamic-programming/backpack-problem.md)
   * [链表](algorithm/leetcode/linked-list.md)
   * [树](algorithm/leetcode/tree/README.md)
     * [前缀树](algorithm/leetcode/tree/prefix-tree.md)
