@@ -6,8 +6,8 @@
 ## 算法 <a id="algorithm"></a>
 
 * [Leetcode](algorithm/leetcode/README.md)
-  * [图](algorithm/leetcode/tu/README.md)
-    * [最短路](algorithm/leetcode/tu/zui-duan-lu.md)
+  * [图](algorithm/leetcode/graph/README.md)
+    * [最短路](algorithm/leetcode/graph/zui-duan-lu.md)
   * [哈希表](algorithm/leetcode/hash-table.md)
   * [动态规划](algorithm/leetcode/dynamic-programming/README.md)
     * [线性动态规划](algorithm/leetcode/dynamic-programming/linear-dynamic-programming.md)
