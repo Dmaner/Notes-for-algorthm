@@ -39,7 +39,7 @@ Leetcode 🦊
 
 ### 12.6号前
 
-* [ ] 深入Linux内核架构（自选章节，至少每天一个章节） 🦁
+* [ ] 深入理解Linux内核（自选章节，至少每天一个章节） 🦁
 
 ### 1月前
 
@@ -52,9 +52,9 @@ Leetcode 🦊
 
 * [ ] tinyhttpd源码阅读
 * [ ] UNIX网络环境编程
-* [ ] TCP/IP详解\(英文版\) 🦁
+* [ ] TCP/IP详解\(英文版\) \[201, 201\]🦁
 * [ ] 图解TCP/IP 🐺
-* [ ] Linux 高性能服务器编程 🦁 \[36, 120\]
+* [x] Linux 高性能服务器编程 🦁 \[36, 120\]
 * [ ] thinking in java 🐺 \[12, 40\]
 * [ ] 写项目（FTP服务器，HTTP服务器，RPC网络框架）🦁
 {% endtab %}
@@ -103,7 +103,9 @@ Leetcode 🦊
 {% endtab %}
 
 {% tab title="周六" %}
-
+* Java
+* Linux服务器
+* Leetcode
 {% endtab %}
 
 {% tab title="周天" %}
