@@ -1,7 +1,8 @@
 # 进程
 
+## task_struct结构
 
-### 进程关系
+![task struct](../../.gitbook/assets/task_struct.png)
 
 ## 进程布局
 
